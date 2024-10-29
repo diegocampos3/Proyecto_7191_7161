@@ -1,1 +1,5 @@
-Desarrollo de una aplicación web responsive que automatice un sistema de evaluación de desempeño laboral por objetivos para la empresa PROASETEL S.A.
+# **Desarrollo de una Aplicación Web Responsive**
+
+## **Automatización de un Sistema de Evaluación de Desempeño Laboral por Objetivos**
+
+### **Para la Empresa PROASETEL S.A.**
